@@ -2,7 +2,7 @@
 # Что нужно будет сделать: 
  - Разрабатывать несколько экранов и переход между ними
 
-[ ] [Figma]( https://www.figma.com/file/oOvX0cE9n0tGbNYTcs9FJC/Untitled?type=design&node-id=0%3A1&mode=design&t=I6PJqfzmHcgGO6X8-1)
+[Figma]( https://www.figma.com/file/oOvX0cE9n0tGbNYTcs9FJC/Untitled?type=design&node-id=0%3A1&mode=design&t=I6PJqfzmHcgGO6X8-1)
 
 # Что мы ждем от вас:
 - Чистый код;
